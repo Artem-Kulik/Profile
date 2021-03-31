@@ -1,7 +1,7 @@
-import Hello from "./Components/Hello/hello"
+import Header from "./Components/Header/header"
 
 function App() {
-return  <Hello />
+return  <Header />
 }
 
 export default App;
